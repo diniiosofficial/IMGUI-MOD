@@ -1,1 +1,26 @@
-
+{
+    "esp": {
+        "line": true,
+        "box": true,
+        "skeleton": true,
+        "health": true,
+        "distance": true,
+        "name": true,
+        "vehicle": true,
+        "fps": true,
+        "wideview": false
+    },
+    "aimbot": {
+        "enable": false,
+        "vischeck": true,
+        "ignoreknocked": true,
+        "ignorebot": true,
+        "target": "chest"
+    },
+    "bullettrack": {
+        "enable": false,
+        "vischeck": true,
+        "ignoreknocked": true,
+        "ignorebot": true
+    }
+}
