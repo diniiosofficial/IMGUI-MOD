@@ -1,7 +1,7 @@
 {
     "esp": {
         "line": true,
-        "box": false,
+        "box": true,
         "skeleton": true,
         "health": true,
         "distance": true,
@@ -11,7 +11,7 @@
         "wideview": false
     },
     "aimbot": {
-        "enable": false,
+        "enable": true,
         "vischeck": true,
         "ignoreknocked": true,
         "ignorebot": true,
