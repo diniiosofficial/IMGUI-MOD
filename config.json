@@ -1,7 +1,7 @@
 {
     "esp": {
         "line": true,
-        "box": true,
+        "box": false,
         "skeleton": true,
         "health": true,
         "distance": true,
